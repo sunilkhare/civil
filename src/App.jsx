@@ -13,7 +13,7 @@ import './App.css';
 function App() {
   return (
     <ThemeProvider>
-      <Router>
+  <Router basename="/civil">
         <div className="App">
           <Header />
           <main>

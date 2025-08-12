@@ -4,7 +4,12 @@
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  min-height: 60vh;
+/* Ensure Home page content is scrollable and visible */
+.home {
+  overflow-y: auto;
   min-height: 100vh;
+}
   display: flex;
   align-items: center;
   color: #ffffff;

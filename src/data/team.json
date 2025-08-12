@@ -4,7 +4,7 @@
     "name": "John Anderson",
     "position": "CEO & Founder",
     "bio": "John has over 20 years of experience in civil construction and founded BuildCraft Construction with a vision to deliver exceptional quality projects.",
-    "image": "/images/team/john-anderson.jpg",
+  "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=400&q=80",
     "education": "Civil Engineering, State University",
     "certifications": ["PMP", "LEED AP"],
     "email": "john@buildcraft.com"
@@ -14,7 +14,7 @@
     "name": "Sarah Williams",
     "position": "Project Manager",
     "bio": "Sarah specializes in large-scale commercial projects and has successfully managed over 100 construction projects.",
-    "image": "/images/team/sarah-williams.jpg",
+  "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=400&q=80",
     "education": "Construction Management, Tech Institute",
     "certifications": ["PMP", "OSHA 30"],
     "email": "sarah@buildcraft.com"
@@ -24,7 +24,7 @@
     "name": "Michael Chen",
     "position": "Chief Engineer",
     "bio": "Michael leads our engineering team with expertise in structural design and innovative construction solutions.",
-    "image": "/images/team/michael-chen.jpg",
+  "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=400&q=80",
     "education": "Structural Engineering, Engineering University",
     "certifications": ["PE", "SE"],
     "email": "michael@buildcraft.com"
@@ -34,7 +34,7 @@
     "name": "Emily Rodriguez",
     "position": "Safety Coordinator",
     "bio": "Emily ensures all projects meet the highest safety standards and regulatory compliance requirements.",
-    "image": "/images/team/emily-rodriguez.jpg",
+  "image": "https://images.unsplash.com/photo-1502767085883-1c5b9a0b5c8c?auto=format&fit=crop&w=400&q=80",
     "education": "Occupational Safety, Safety College",
     "certifications": ["CSP", "CHST", "OSHA 30"],
     "email": "emily@buildcraft.com"

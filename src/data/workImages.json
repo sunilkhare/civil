@@ -8,21 +8,21 @@
   },
   {
     "id": 2,
-    "src": "https://images.unsplash.com/photo-1448630360428-65456885c650?ixlib=rb-4.0.3&auto=format&fit=crop&w=2067&q=80",
+  "src": "https://images.unsplash.com/photo-1503389152951-9c3d0e3c7c53?auto=format&fit=crop&w=800&q=80",
     "alt": "Luxury Residential Home",
     "title": "Custom Luxury Villa",
     "caption": "Premium residential construction with modern amenities and landscaped gardens"
   },
   {
     "id": 3,
-    "src": "https://images.unsplash.com/photo-1590725140246-20acdee442be?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+  "src": "https://images.unsplash.com/photo-1468421870903-4df1664ac249?auto=format&fit=crop&w=800&q=80",
     "alt": "Construction Site Work",
     "title": "Infrastructure Development",
     "caption": "Large-scale infrastructure project showcasing our expertise in civil engineering"
   },
   {
     "id": 4,
-    "src": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+  "src": "https://images.unsplash.com/photo-1504457046789-1a125e1b1a70?auto=format&fit=crop&w=800&q=80",
     "alt": "Bridge Construction",
     "title": "Bridge Infrastructure",
     "caption": "Modern bridge construction with advanced engineering and safety standards"
