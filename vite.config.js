@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/civil/', // Update this to match your GitHub repository name
   build: {
     outDir: 'dist',
-    assetsDir: 'assets',
+    assetsDir: 'public',
     sourcemap: false,
     // Ensure proper asset handling for GitHub Pages
     rollupOptions: {
